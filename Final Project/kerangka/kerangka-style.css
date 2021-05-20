@@ -6,8 +6,9 @@
 }
 
 body {
-  background-image: url('IMG_8958.jpg');
-  background-size:100%;
+  /*background-image: url('IMG_8958.jpg');*/
+  /*background-size:100%;*/
+  background-color: #cccbcb;
 }
 
 *{

@@ -1,5 +1,15 @@
 # Tugas-Besar
 Tugas RWP Terakhir
 
-<i>Kumpulan Tugas Untuk Kelompok 7</i>
+<b>KITA TELAH MENAMATKAN MATA KULIAH RWP</b>
+<b>GG TIM 7 PAKE EMOT 💪</b>
+
+kita absen ada :
+ajun
+ari
+aqil
+fahri
+dimas
+herdy
+rifqy
 
